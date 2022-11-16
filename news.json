@@ -1,0 +1,125 @@
+{
+	"status": "ok",
+	"totalResults": 10,
+	"articles": [{
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "Watch: The babies born as world population hits 8bn",
+		"description": "Mothers around the world share their thoughts as their babies' birth coincides with a huge population milestone.",
+		"url": "http://www.bbc.co.uk/news/world63644465",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7174/production/_127644092_p0dgh12s.jpg",
+		"publishedAt": "20221115T22:52:15.9354557Z",
+		"content": "The UN has announced that the world's population has passed eight billion people, 11 years after passing the sevenbillion milestone.\r\nThe mothers of babies born across the world have been sharing th… [+78 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "Beyoncé, Kendrick Lamar and Adele dominate Grammy Award nominations",
+		"description": "Beyoncé is now tied with her husband JayZ as the mostnominated artist in Grammy Award history.",
+		"url": "http://www.bbc.co.uk/news/entertainmentarts63636591",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5018/production/_127640502_gettyimages161430288.jpg",
+		"publishedAt": "20221115T21:07:24.2637191Z",
+		"content": "Beyoncé and Adele are the stars to beat at the 2023 Grammy Awards, and will go headtohead for all the major prizes.\r\nBoth artists have been nominated for album of the year  Adele for her sumptuous… [+9847 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "US midterms: Republicans nominate Kevin McCarthy for House leadership",
+		"description": "The Republican House representative is on track to replace Nancy Pelosi as Speaker of the House.",
+		"url": "http://www.bbc.co.uk/news/worlduscanada63629004",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8DE4/production/_127642363_gettyimages1244628803.jpg",
+		"publishedAt": "20221115T21:07:20.8877873Z",
+		"content": "With Republicans inching closer to retake the House majority, Kevin McCarthy has won his party's nomination to be speaker in the new Congress.\r\nIn a closeddoor vote on Tuesday, he secured 188 votes … [+2240 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "Kari Lake defeat: Did democracy win in US midterms?",
+		"description": "Many election deniers lost in their races, which would have put them in positions to control future counts.",
+		"url": "http://www.bbc.co.uk/news/worlduscanada63565226",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1250/production/_115588640_gettyimages12296208321.jpg",
+		"publishedAt": "20221115T19:22:24.3412147Z",
+		"content": "Almost every Republican candidate who was standing for a position that would have given them oversight of the 2024 elections and who were also \"election deniers\"  people who repeat the lie that the … [+2996 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "As the 8 billionth child is born, who were 5th, 6th and 7th?",
+		"description": "The world is still growing, but not as fast as when the six and sevenbillionth babies were born.",
+		"url": "http://www.bbc.co.uk/news/world63623307",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AB61/production/_127637834_8_billion_people_index.jpg",
+		"publishedAt": "20221115T16:07:21.0609374Z",
+		"content": "The UN says the world's population has hit eight billion, just 11 years after passing the sevenbillion milestone.\r\nAfter a big surge in the middle of the 20th Century, population growth is already s… [+6930 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "Ukraine: Zelensky snubs Russia as he addresses 'G19' at G20",
+		"description": "Ukraine's president called on world leaders to end the war, and extend a crucial grain deal.",
+		"url": "http://www.bbc.co.uk/news/worldasia63632161",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA8F/production/_127636634_gettyimages1244788380.jpg",
+		"publishedAt": "20221115T15:22:24.5128731Z",
+		"content": "Ukrainian President Volodymyr Zelensky called on \"G19\" world leaders to end the Russian invasion, in a pointed snub to Moscow at the G20 summit.\r\nMr Zelensky appeared in a video speech beamed to lead… [+4518 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "Ancient fish teeth reveal earliest sign of cooking",
+		"description": "Tests on fish remains found in Israel suggest man first cooked far earlier than previously thought.",
+		"url": "http://www.bbc.co.uk/news/worldmiddleeast63596141",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13621/production/_127639397_mediaitem127639396.jpg",
+		"publishedAt": "20221115T14:37:18.4820712Z",
+		"content": "Human beings used fire to cook food hundreds of thousands of years earlier than previously thought, an Israeliled group of researchers have suggested.\r\nThey found evidence in the 780,000yearold re… [+1810 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "China zero Covid: Violent protests in Guangzhou put curbs under strain",
+		"description": "Anger boils over in the industrial city of Guangzhou, exposing cracks in Xi Jinping's signature policy.",
+		"url": "http://www.bbc.co.uk/news/worldasiachina63633109",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F855/production/_127637536_gettyimages1244681605.jpg",
+		"publishedAt": "20221115T09:52:23.3093617Z",
+		"content": "Crowds of residents in southern China's industrial metropolis Guangzhou have escaped a compulsory lockdown and clashed with police, as anger at strict coronavirus curbs boiled over.\r\nDramatic footage… [+3647 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "G20 to focus on food security after BidenXi meeting",
+		"description": "The meeting gets under way after the Chinese and US leaders vow there will be no \"new Cold War\".",
+		"url": "http://www.bbc.co.uk/news/live/worldasia63593855",
+		"urlToImage": "https://m.files.bbci.co.uk/modules/bbcmorphnewswafpagemeta/5.3.0/bbc_news_logo.png",
+		"publishedAt": "20221115T01:52:35.888902Z",
+		"content": "Although some highprofile meetings have already taken place today, the annual G20 summit is due to begin officially on Tuesday.\r\nThe G20, or Group of Twenty, is a club of countries which meets to di… [+689 chars]"
+	}, {
+		"source": {
+			"id": "bbcnews",
+			"name": "BBC News"
+		},
+		"author": "BBC News",
+		"title": "US midterms: Race to control House majority down to the wire",
+		"description": "Republicans are still slightly favoured to secure the 218 seats they need to win back the majority.",
+		"url": "http://www.bbc.co.uk/news/worlduscanada63627007",
+		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13BB7/production/_127632808_gettyimages1244775480.jpg",
+		"publishedAt": "20221114T17:37:24.7322356Z",
+		"content": "Nearly one week after voters cast ballots in the US midterm elections, the race to control the lower chamber of Congress remains tight.\r\nRepublicans must win at least 218 seats to retake a majority i… [+2597 chars]"
+	}]
+}

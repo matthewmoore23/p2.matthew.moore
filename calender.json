@@ -1,0 +1,275 @@
+{
+	"day": [
+	{
+		"day": "Tuesday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Wednesday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Thursday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Friday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Saturday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Sunday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Monday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Tuesday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Wednesday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Thursday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Friday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Saturday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Sunday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Monday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Tuesday",
+		"nineAM": "Wake up",
+		"twelvePM": "Get out of class",
+		"threePM": "Nap",
+		"sixPM": "Make dinner",
+		"ninePM": "Finish project"	
+	},
+	
+	{
+		"day": "Wednesday",
+		"nineAM": "Wake up",
+		"twelvePM": "Get out of class",
+		"threePM": "",
+		"sixPM": "Make dinner",
+		"ninePM": "Finish project"	
+	},
+	
+	{
+		"day": "Thursday",
+		"nineAM": "Wake up",
+		"twelvePM": "Get out of class",
+		"threePM": "",
+		"sixPM": "Make dinner",
+		"ninePM": "Finish project"	
+	},
+	
+	{
+		"day": "Friday",
+		"nineAM": "Wake up",
+		"twelvePM": "Get out of class",
+		"threePM": "",
+		"sixPM": "Make dinner",
+		"ninePM": "Finish project"	
+	},
+	
+	{
+		"day": "Saturday",
+		"nineAM": "Wake up",
+		"twelvePM": "Get out of class",
+		"threePM": "",
+		"sixPM": "Make dinner",
+		"ninePM": "Finish project"	
+	},
+	
+	{
+		"day": "Sunday",
+		"nineAM": "Wake up",
+		"twelvePM": "Get out of class",
+		"threePM": "",
+		"sixPM": "Make dinner",
+		"ninePM": "Finish project"	
+	},
+	
+	{
+		"day": "Monday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Tuesday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Wednesday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Thursday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Friday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Saturday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Sunday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Monday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Tuesday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	},
+	
+	{
+		"day": "Wednesday",
+		"nineAM": "1",
+		"twelvePM": "1",
+		"threePM": "1",
+		"sixPM": "1",
+		"ninePM": "1"	
+	}
+		
+	]
+
+}
