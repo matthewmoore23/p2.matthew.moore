@@ -109,7 +109,7 @@ function setup(){
 }
 
 function draw(){
-  //background(255);
+  background(0);
   image(capture, 0, 0, 1600, 900);
 
   //The classes will start to render
